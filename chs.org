@@ -1,0 +1,38 @@
+#+TITLE: Computational History of Science
+#+AUTHOR: Gerd Graßhoff
+#+DATE: July 2016
+ 
+
+
+* Infrastruktur
+** Allgemeine Anforderungen
+*** Computational platform
+**** Python
+*** Dokumentation mit nbsphinx
+*** Gitlab / Github für öffentliche Repositorien
+* Publikationen
+** Print
+** Datenpublikation
+
+* GITLAB
+** Projects
+*** Mittelalterliche Diagramme
+*** Geography
+*** Ancient Sundials
+*** Babylonian Diaries
+*** Rock Art
+*** Tutorials
+**** Scitables
+**** Introduction into Python
+*** Teaching
+**** Wissenschaftstheorie der Digital Humanities
+* Dokumentation
+** Read the docs 
+https://readthedocs.org/
+*** Getting started
+https://read-the-docs.readthedocs.io/en/latest/getting_started.html
+*** Sphinx
+****  nbsphinx
+http://nbsphinx.readthedocs.io/en/alabaster-theme/
+*** ReStructuredText
+
