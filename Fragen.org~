@@ -1,0 +1,12 @@
+* Pandas
+** Funktionen auf einzelnen Spalten, zum Beispiel die Umwandlung des Jahres in eine Zahl für das Jahrhundert.
+** die Umwandlung einer tiefen Hierarchie in eine flache Struktur. Wie kann man mit einer einfachen Funktion aus der komplexen Json Datei eine Datei erzeugen, wie ich sie für das Beispiel generiert habe. Die Beispieldatei ist auch als Kontrolle gedacht dafür, ob die entsprechenden Zahlen reproduzierbar sind. Können Sie also aus der diagramm.json die flache JSON generieren?
+
+
+-Verwaltung der Daten::
+
+– –  Kann man einzelne Jazzdateien direkt aus einem  Git  laden? Oder muss man sich diese erst lokal herunterladen, und dann laden. Schöner wäre es, eine Funktion zu haben, die die Standarddaten über das Internet einlädt. Das wäre eine Funktion des Repositorium, das auch in der Ausarbeitung durch die Citables genutzt würde.
+
+ –  Weitere Nutzung vom GIT:
+ mehr sind viele Funktionen noch nicht so ganz geläufig. Kann man Unterverzeichnisse anlegen und aktualisieren,, oder muss man immer das gesamte Verzeichnis klonen? Wenn wir also ein Daten Repositorium anlegen, wäre es unpraktisch, wenn jeder Nutzer das gesamte Repositorium der Daten laden müsste.
+
